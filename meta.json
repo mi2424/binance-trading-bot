@@ -1,0 +1,17 @@
+{
+  "name": "Fahads Meme",
+  "symbol": "FM",
+  "description": "This is a Meme",
+  "image": "https://i.imgur.com/TMVLz1H.jpeg",
+  "external_url": "https://fahads.com",
+  "attributes": [
+    {
+      "trait_type": "Twitter",
+      "value": "https://x.com/fahads"
+    },
+    {
+      "trait_type": "Telegram",
+      "value": "https://t.me/fahads"
+    }
+  ]
+}
